@@ -254,15 +254,13 @@ h2{
 .border{
     padding-left: 30px;
     padding-right: 7px;
-    border-right-width: 1px;
-    border-right-style: solid;
-    border-right-color: #fd8300;
 }
 .unsubscribe{
     padding-left: 7px;
     padding-right: 30px;
 }
-.footer-links a{
+.footer-links a,
+.footer-links span{
     font-size: 11px;
     line-height: 18px;
     color: #fd8300;
